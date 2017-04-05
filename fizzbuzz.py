@@ -9,5 +9,3 @@ def fizz_buzz(number):
       returnvalue = 'Buzz'
       
   return returnvalue
-
-print fizz_buzz(15)
